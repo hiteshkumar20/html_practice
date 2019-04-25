@@ -1,0 +1,61 @@
+*{
+  background-color: #9fa8cb;
+}
+#one{
+  text-align: center;
+}
+#two{
+  text-align: center;
+}
+#three{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
+.first{
+  width: 20%;
+  height:40px;
+  font-size:14pt;
+  margin-bottom: 1%;
+  background-color: white;
+}
+
+.second{
+  width: 20%;
+  height:40px;
+  font-size:14pt;
+  margin-bottom: 1%;
+  background-color: white;
+}
+.third{
+  width: 20%;
+  height:40px;
+  font-size:14pt;
+  margin-bottom: 1%;
+  background-color: white;
+}
+.fourth{
+  width: 20%;
+  height:40px;
+  font-size:14pt;
+  background-color: white;
+}
+.fifth{
+  width: 25%;
+  height:40px;
+  font-size:14pt;
+  background-color: #069937;
+}
+.sixth{
+  width: 25%;
+  height:40px;
+  font-size:14pt;
+  background-color: #3821ed;
+}
+.seven{
+  width: 20%;
+  height:40px;
+  font-size:14pt;
+  background-color: white;  
+}
